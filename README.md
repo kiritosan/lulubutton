@@ -1,2 +1,2 @@
 # lulubutton
-由pekobutton改造而成的lulubutton
+由pekobutto修改音声而成的lulubutton
