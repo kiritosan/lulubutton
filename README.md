@@ -1,6 +1,6 @@
 # new-Peko-button
 
-原项目：<[vbup-osc/new-pekobutton: Peko按钮 ぺこらボタン PEKO BUTTON （New） (github.com)](https://github.com/vbup-osc/new-pekobutton)>
+原项目：[vbup-osc/new-pekobutton: Peko按钮 ぺこらボタン PEKO BUTTON （New） (github.com)](https://github.com/vbup-osc/new-pekobutton)
 
 
 
